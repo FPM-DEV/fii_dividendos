@@ -1,0 +1,5 @@
+*.pem
+*.log
+__pycache__/
+tickers_com_erro.json
+tickers_com_erro.json
