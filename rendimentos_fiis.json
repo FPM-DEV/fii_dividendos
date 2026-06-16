@@ -5323,6 +5323,12 @@
     },
     {
         "fii": "AURB11",
+        "data_base": "12/06/2026",
+        "data_de_pagamento": "19/06/2026",
+        "valor_por_cota": "0.50"
+    },
+    {
+        "fii": "AURB11",
         "data_base": "14/05/2026",
         "data_de_pagamento": "21/05/2026",
         "valor_por_cota": "0.50"
@@ -19009,6 +19015,12 @@
     },
     {
         "fii": "BTYU11",
+        "data_base": "12/06/2026",
+        "data_de_pagamento": "19/06/2026",
+        "valor_por_cota": "0.09"
+    },
+    {
+        "fii": "BTYU11",
         "data_base": "14/05/2026",
         "data_de_pagamento": "21/05/2026",
         "valor_por_cota": "0.09"
@@ -21370,6 +21382,12 @@
         "data_base": "09/11/2022",
         "data_de_pagamento": "17/11/2022",
         "valor_por_cota": "0.85"
+    },
+    {
+        "fii": "CEOC11",
+        "data_base": "08/06/2026",
+        "data_de_pagamento": "15/06/2026",
+        "valor_por_cota": "0.43"
     },
     {
         "fii": "CEOC11",
@@ -43957,6 +43975,12 @@
     },
     {
         "fii": "GCRI11",
+        "data_base": "12/06/2026",
+        "data_de_pagamento": "19/06/2026",
+        "valor_por_cota": "0.85"
+    },
+    {
+        "fii": "GCRI11",
         "data_base": "14/05/2026",
         "data_de_pagamento": "21/05/2026",
         "valor_por_cota": "0.85"
@@ -47926,6 +47950,12 @@
         "data_base": "08/04/2021",
         "data_de_pagamento": "15/04/2021",
         "valor_por_cota": "0.28"
+    },
+    {
+        "fii": "HCRI11",
+        "data_base": "12/06/2026",
+        "data_de_pagamento": "19/06/2026",
+        "valor_por_cota": "2.53"
     },
     {
         "fii": "HCRI11",
@@ -65101,6 +65131,12 @@
     },
     {
         "fii": "JCCJ11",
+        "data_base": "12/06/2026",
+        "data_de_pagamento": "19/06/2026",
+        "valor_por_cota": "1.77"
+    },
+    {
+        "fii": "JCCJ11",
         "data_base": "14/05/2026",
         "data_de_pagamento": "21/05/2026",
         "valor_por_cota": "1.77"
@@ -65302,6 +65338,12 @@
         "data_base": "11/08/2023",
         "data_de_pagamento": "18/08/2023",
         "valor_por_cota": "0.12"
+    },
+    {
+        "fii": "JCIN11",
+        "data_base": "12/06/2026",
+        "data_de_pagamento": "19/06/2026",
+        "valor_por_cota": "7.082.94"
     },
     {
         "fii": "JCIN11",
@@ -77035,6 +77077,12 @@
     },
     {
         "fii": "MCCI11",
+        "data_base": "11/06/2026",
+        "data_de_pagamento": "18/06/2026",
+        "valor_por_cota": "1.00"
+    },
+    {
+        "fii": "MCCI11",
         "data_base": "13/05/2026",
         "data_de_pagamento": "20/05/2026",
         "valor_por_cota": "1.00"
@@ -79768,6 +79816,12 @@
         "data_base": "28/04/2017",
         "data_de_pagamento": "15/05/2017",
         "valor_por_cota": "0.95"
+    },
+    {
+        "fii": "NAVT11",
+        "data_base": "12/06/2026",
+        "data_de_pagamento": "19/06/2026",
+        "valor_por_cota": "1.10"
     },
     {
         "fii": "NAVT11",
@@ -102943,6 +102997,12 @@
     },
     {
         "fii": "RINV11",
+        "data_base": "12/06/2026",
+        "data_de_pagamento": "19/06/2026",
+        "valor_por_cota": "1.10"
+    },
+    {
+        "fii": "RINV11",
         "data_base": "14/05/2026",
         "data_de_pagamento": "21/05/2026",
         "valor_por_cota": "1.10"
@@ -106738,6 +106798,12 @@
         "data_base": "23/11/2020",
         "data_de_pagamento": "30/11/2020",
         "valor_por_cota": "0.65"
+    },
+    {
+        "fii": "RZZR11",
+        "data_base": "12/06/2026",
+        "data_de_pagamento": "19/06/2026",
+        "valor_por_cota": "1.23"
     },
     {
         "fii": "RZZR11",
@@ -110758,6 +110824,12 @@
         "data_base": "15/10/2021",
         "data_de_pagamento": "25/10/2021",
         "valor_por_cota": "0.78"
+    },
+    {
+        "fii": "SNEL11",
+        "data_base": "15/06/2026",
+        "data_de_pagamento": "25/06/2026",
+        "valor_por_cota": "0.10"
     },
     {
         "fii": "SNEL11",
