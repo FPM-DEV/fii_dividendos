@@ -22705,6 +22705,12 @@
     },
     {
         "fii": "CNES11",
+        "data_base": "22/06/2026",
+        "data_de_pagamento": "29/06/2026",
+        "valor_por_cota": "0.01"
+    },
+    {
+        "fii": "CNES11",
         "data_base": "21/05/2026",
         "data_de_pagamento": "28/05/2026",
         "valor_por_cota": "0.01"
@@ -35692,6 +35698,12 @@
         "data_base": "06/07/2020",
         "data_de_pagamento": "15/07/2020",
         "valor_por_cota": "0.40"
+    },
+    {
+        "fii": "FCFL11",
+        "data_base": "18/06/2026",
+        "data_de_pagamento": "25/06/2026",
+        "valor_por_cota": "0.93"
     },
     {
         "fii": "FCFL11",
@@ -114394,6 +114406,12 @@
         "data_base": "07/08/2017",
         "data_de_pagamento": "14/08/2017",
         "valor_por_cota": "1.00"
+    },
+    {
+        "fii": "TJKB11",
+        "data_base": "17/06/2026",
+        "data_de_pagamento": "25/06/2026",
+        "valor_por_cota": "2.90"
     },
     {
         "fii": "TJKB11",
