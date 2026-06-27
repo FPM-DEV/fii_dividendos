@@ -18457,6 +18457,12 @@
     },
     {
         "fii": "BTSI11",
+        "data_base": "23/06/2026",
+        "data_de_pagamento": "30/06/2026",
+        "valor_por_cota": "0.83"
+    },
+    {
+        "fii": "BTSI11",
         "data_base": "22/05/2026",
         "data_de_pagamento": "29/05/2026",
         "valor_por_cota": "0.83"
@@ -31852,6 +31858,12 @@
         "data_base": "31/01/2017",
         "data_de_pagamento": "10/02/2017",
         "valor_por_cota": "1.74"
+    },
+    {
+        "fii": "EDGA11",
+        "data_base": "23/06/2026",
+        "data_de_pagamento": "30/06/2026",
+        "valor_por_cota": "0.04"
     },
     {
         "fii": "EDGA11",
@@ -46216,6 +46228,12 @@
         "data_base": "29/03/2019",
         "data_de_pagamento": "05/04/2019",
         "valor_por_cota": "1.21"
+    },
+    {
+        "fii": "GZIT11",
+        "data_base": "23/06/2026",
+        "data_de_pagamento": "30/06/2026",
+        "valor_por_cota": "0.42"
     },
     {
         "fii": "GZIT11",
@@ -110254,6 +110272,12 @@
         "data_base": "28/06/2024",
         "data_de_pagamento": "12/07/2024",
         "valor_por_cota": "11.88"
+    },
+    {
+        "fii": "SMRE11",
+        "data_base": "30/06/2026",
+        "data_de_pagamento": "10/07/2026",
+        "valor_por_cota": "1.00"
     },
     {
         "fii": "SMRE11",
