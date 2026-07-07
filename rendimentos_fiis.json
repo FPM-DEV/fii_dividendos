@@ -16849,6 +16849,12 @@
     },
     {
         "fii": "BTHI11",
+        "data_base": "03/07/2026",
+        "data_de_pagamento": "15/07/2026",
+        "valor_por_cota": "0.45"
+    },
+    {
+        "fii": "BTHI11",
         "data_base": "03/06/2026",
         "data_de_pagamento": "15/06/2026",
         "valor_por_cota": "0.45"
@@ -79828,6 +79834,12 @@
         "data_base": "28/12/2023",
         "data_de_pagamento": "08/01/2024",
         "valor_por_cota": "1.30"
+    },
+    {
+        "fii": "MXRF11",
+        "data_base": "30/06/2026",
+        "data_de_pagamento": "14/07/2026",
+        "valor_por_cota": "0.10"
     },
     {
         "fii": "MXRF11",
