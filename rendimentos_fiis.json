@@ -109975,12 +109975,6 @@
     },
     {
         "fii": "SEQR11",
-        "data_base": "07/07/2026",
-        "data_de_pagamento": "14/07/2026",
-        "valor_por_cota": "0.59"
-    },
-    {
-        "fii": "SEQR11",
         "data_base": "08/06/2026",
         "data_de_pagamento": "15/06/2026",
         "valor_por_cota": "0.59"
