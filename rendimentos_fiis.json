@@ -81733,6 +81733,18 @@
     },
     {
         "fii": "MXRF11",
+        "data_base": "31/08/2026",
+        "data_de_pagamento": "15/09/2026",
+        "valor_por_cota": "0.10"
+    },
+    {
+        "fii": "MXRF11",
+        "data_base": "31/07/2026",
+        "data_de_pagamento": "14/08/2026",
+        "valor_por_cota": "0.10"
+    },
+    {
+        "fii": "MXRF11",
         "data_base": "30/06/2026",
         "data_de_pagamento": "14/07/2026",
         "valor_por_cota": "0.10"
@@ -81782,13 +81794,13 @@
     {
         "fii": "MXRF11",
         "data_base": "31/10/2025",
-        "data_de_pagamento": "14/11/2025",
+        "data_de_pagamento": "07/11/2025",
         "valor_por_cota": "0.10"
     },
     {
         "fii": "MXRF11",
         "data_base": "31/10/2025",
-        "data_de_pagamento": "07/11/2025",
+        "data_de_pagamento": "14/11/2025",
         "valor_por_cota": "0.10"
     },
     {
