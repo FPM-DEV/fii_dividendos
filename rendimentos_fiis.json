@@ -19927,6 +19927,18 @@
     },
     {
         "fii": "BVAR11",
+        "data_base": "28/09/2026",
+        "data_de_pagamento": "06/10/2026",
+        "valor_por_cota": "65.00"
+    },
+    {
+        "fii": "BVAR11",
+        "data_base": "28/09/2026",
+        "data_de_pagamento": "06/10/2026",
+        "valor_por_cota": "6.33"
+    },
+    {
+        "fii": "BVAR11",
         "data_base": "15/09/2026",
         "data_de_pagamento": "23/09/2026",
         "valor_por_cota": "5.00"
@@ -19959,25 +19971,25 @@
         "fii": "BVAR11",
         "data_base": "15/06/2026",
         "data_de_pagamento": "23/06/2026",
-        "valor_por_cota": "8.40"
+        "valor_por_cota": "1.34"
     },
     {
         "fii": "BVAR11",
         "data_base": "15/06/2026",
         "data_de_pagamento": "23/06/2026",
-        "valor_por_cota": "1.34"
-    },
-    {
-        "fii": "BVAR11",
-        "data_base": "15/05/2026",
-        "data_de_pagamento": "25/05/2026",
-        "valor_por_cota": "6.79"
+        "valor_por_cota": "8.40"
     },
     {
         "fii": "BVAR11",
         "data_base": "15/05/2026",
         "data_de_pagamento": "25/05/2026",
         "valor_por_cota": "5.50"
+    },
+    {
+        "fii": "BVAR11",
+        "data_base": "15/05/2026",
+        "data_de_pagamento": "25/05/2026",
+        "valor_por_cota": "6.79"
     },
     {
         "fii": "BVAR11",
@@ -20001,13 +20013,19 @@
         "fii": "BVAR11",
         "data_base": "13/03/2026",
         "data_de_pagamento": "23/03/2026",
-        "valor_por_cota": "0.46"
+        "valor_por_cota": "5.30"
     },
     {
         "fii": "BVAR11",
         "data_base": "13/03/2026",
         "data_de_pagamento": "23/03/2026",
-        "valor_por_cota": "5.30"
+        "valor_por_cota": "0.46"
+    },
+    {
+        "fii": "BVAR11",
+        "data_base": "13/02/2026",
+        "data_de_pagamento": "25/02/2026",
+        "valor_por_cota": "0.46"
     },
     {
         "fii": "BVAR11",
@@ -20017,33 +20035,27 @@
     },
     {
         "fii": "BVAR11",
-        "data_base": "13/02/2026",
-        "data_de_pagamento": "25/02/2026",
-        "valor_por_cota": "0.46"
-    },
-    {
-        "fii": "BVAR11",
-        "data_base": "15/01/2026",
-        "data_de_pagamento": "23/01/2026",
-        "valor_por_cota": "0.46"
-    },
-    {
-        "fii": "BVAR11",
         "data_base": "15/01/2026",
         "data_de_pagamento": "23/01/2026",
         "valor_por_cota": "8.28"
     },
     {
         "fii": "BVAR11",
-        "data_base": "15/12/2025",
-        "data_de_pagamento": "23/12/2025",
-        "valor_por_cota": "7.00"
+        "data_base": "15/01/2026",
+        "data_de_pagamento": "23/01/2026",
+        "valor_por_cota": "0.46"
     },
     {
         "fii": "BVAR11",
         "data_base": "15/12/2025",
         "data_de_pagamento": "23/12/2025",
         "valor_por_cota": "1.25"
+    },
+    {
+        "fii": "BVAR11",
+        "data_base": "15/12/2025",
+        "data_de_pagamento": "23/12/2025",
+        "valor_por_cota": "7.00"
     },
     {
         "fii": "BVAR11",
