@@ -115783,6 +115783,12 @@
     },
     {
         "fii": "SNLG11",
+        "data_base": "27/10/2026",
+        "data_de_pagamento": "04/11/2026",
+        "valor_por_cota": "2.76"
+    },
+    {
+        "fii": "SNLG11",
         "data_base": "15/04/2025",
         "data_de_pagamento": "25/04/2025",
         "valor_por_cota": "0.84"
