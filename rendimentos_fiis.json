@@ -114331,6 +114331,12 @@
     },
     {
         "fii": "SMRE11",
+        "data_base": "30/10/2026",
+        "data_de_pagamento": "10/11/2026",
+        "valor_por_cota": "1.00"
+    },
+    {
+        "fii": "SMRE11",
         "data_base": "30/09/2026",
         "data_de_pagamento": "13/10/2026",
         "valor_por_cota": "1.00"
